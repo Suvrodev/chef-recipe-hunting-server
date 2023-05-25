@@ -1,0 +1,532 @@
+[
+    {
+        "id": "1",
+        "name": "John Smith",
+        "picture_url": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=1380&t=st=1682983758~exp=1682984358~hmac=245da56259f3ee8922d991eb4d4b16c5ac82eeb8746af0f2a6d15f671e34e8bd",
+        "experience": "5 years",
+        "num_of_recipes": 10,
+        "like_number": 25,
+        "desc": "John Smith is a chef, presenter and best selling author who specialises in Middle Eastern and North African cuisine. He has written six cookbooks",
+        "recipes": [
+            {
+                "recipe_id": "a",
+                "recipe_image": "https://img.freepik.com/free-photo/sweet-chocolate-cake-with-cherry_144627-6623.jpg?w=996&t=st=1683075799~exp=1683076399~hmac=02f8d8ce4f60f389e7049ab0a4265eafb9e64d16d7b85aa6b554b57c0a64e469",
+                "recipe_name": "Chocolate Cake",
+                "ingredients": [
+                    "2 cups flour",
+                    "2 cups sugar",
+                    "3/4 cup cocoa powder",
+                    "2 teaspoons baking soda",
+                    "1 teaspoon salt"
+                ],
+                "cooking_instructions": [
+                    "Preheat the oven to 350 degrees F.",
+                    "In a large bowl, whisk together the flour, sugar, cocoa powder, baking soda, and salt.",
+                    "Add the eggs, milk, oil, and vanilla extract, and whisk until smooth.",
+                    "Pour the batter into a greased 9x13 inch baking dish.",
+                    "Bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean.",
+                    "Let cool before serving."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "b",
+                "recipe_image": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11251.jpg?w=996&t=st=1683075853~exp=1683076453~hmac=5d7123ac8673a89e708946156640b658181f293c9d35c95de6d3e88fcea7b8e4",
+                "recipe_name": "Lasagna",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1/2 cup chopped onion",
+                    "1/2 cup chopped green bell pepper",
+                    "2 cloves garlic, minced",
+                    "1 can (28 oz.) diced tomatoes"
+                ],
+                "cooking_instructions": [
+                    "Preheat the oven to 375 degrees F.",
+                    "In a skillet, cook the ground beef, onion, green pepper, and garlic over medium heat until browned.",
+                    "Drain the excess fat, then add the diced tomatoes and tomato paste.",
+                    "Simmer for 10 minutes, then season with salt, pepper, and Italian seasoning to taste.",
+                    "In a 9x13 inch baking dish, spread a layer of the meat sauce, then a layer of uncooked lasagna noodles.",
+                    "Repeat layers, ending with a layer of meat sauce on top.",
+                    "Cover with foil and bake for 25 minutes.",
+                    "Remove the foil and bake for an additional 25 minutes, or until the noodles are tender and the cheese is melted and bubbly.",
+                    "Let cool before serving."
+                ],
+                "rating": 4.2
+            },
+            {
+                "recipe_id": "c",
+                "recipe_name": "Chicken Curry",
+                "recipe_image":"https://img.freepik.com/free-photo/curry-with-chicken-onions-indian-food-asian-cuisine-top-view_2829-4414.jpg?w=1060&t=st=1683076646~exp=1683077246~hmac=3809838659029606bf26536a8ea3c266cf239a59062f0981a42f1bd59c2a8f47",
+                "ingredients": [
+                    "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
+                    "2 tablespoons vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon grated fresh ginger",
+                    "2 tablespoons curry powder",
+                    "1 can (14 oz.) coconut milk",
+                    "1 can (14.5 oz.) diced tomatoes",
+                    "1 can (8 oz.) tomato sauce",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_instructions": [
+                    "In a large skillet or wok, heat the oil over medium-high heat.",
+                    "Add the chicken and cook until browned on all sides.",
+                    "Remove the chicken from the pan and set aside.",
+                    "Add the onion, garlic, and ginger to the pan and sauté until the onion is translucent.",
+                    "Add the curry powder and cook for 1-2 minutes, or until fragrant.",
+                    "Add the coconut milk, diced tomatoes, and tomato sauce.",
+                    "Return the chicken to the pan and bring the mixture to a simmer.",
+                    "Cook for 10-15 minutes, or until the chicken is cooked through.",
+                    "Season with salt and pepper to taste.",
+                    "Serve over rice."
+                ],
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Maria Hernandez",
+        "picture_url": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=1380&t=st=1682983803~exp=1682984403~hmac=3e0e9f9858502c3b4f0c0dfb0247085a7eb02838416ea168e2dc5631118ab914",
+        "experience": "8 years",
+        "num_of_recipes": 20,
+        "like_number": 30,
+        "desc": "Maria Hernandez, from America.Maria has always loved to Cook, and in some way or another, she has been doing it since she was 17, making this role a natural fit for him.",
+        "recipes": [
+            {
+                "recipe_id": "d",
+                "recipe_image":"https://img.freepik.com/premium-photo/chimichanga-corn-cake-traditional-mexican-dish-abstract-generative-ai-illustration_162695-6435.jpg?w=996",
+                "recipe_name": "Guacamole",
+                "ingredients": [
+                    "3 ripe avocados",
+                    "1/4 cup chopped onion",
+                    "1/4 cup chopped cilantro",
+                    "2 tablespoons lime juice",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_instructions": [
+                    "Cut the avocados in half and remove the pits.",
+                    "Scoop the avocado flesh into a bowl and mash with a fork or potato masher.",
+                    "Add the onion, cilantro, lime juice, salt, and pepper.",
+                    "Stir to combine.",
+                    "Serve with tortilla chips."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_id": "e",
+                "recipe_image":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Chimichangas.jpg",
+                "recipe_name": "Chimichangas",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1/2 onion, chopped",
+                    "1 can (4 oz.) chopped green chilies",
+                    "1 can (15 oz.) refried beans",
+                    "1/2 teaspoon chili powder",
+                    "1/2 teaspoon ground cumin",
+                    "8-10 flour tortillas",
+                    "2 cups shredded Cheddar cheese",
+                    "Oil for frying"
+                ],
+                "cooking_instructions": [
+                    "In a large skillet, cook the beef and onion over medium heat until the beef is browned and the onion is tender.",
+                    "Add the green chilies, refried beans, chili powder, and cumin.",
+                    "Cook for 5-10 minutes, or until heated through.",
+                    "Spoon about 1/2 cup of the beef mixture onto each tortilla.",
+                    "Sprinkle with shredded cheese.",
+                    "Fold the sides of the tortilla in and then roll it up tightly.",
+                    "Heat the oil in a deep fryer or heavy skillet to 375°F.",
+                    "Fry the chimichangas, a few at a time, for 2-3 minutes, or until golden brown.",
+                    "Drain on paper towels.",
+                    "Serve with salsa, sour cream, and guacamole, if desired."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "f",
+                "recipe_name": "Taco Salad",
+                "recipe_image":"https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?w=996&t=st=1683076525~exp=1683077125~hmac=622fee0caf2a8cf4e1d10bd8e5e48186bb0d42add5243fb93e41e8d3754580a5",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1/2 onion, chopped",
+                    "1 can (15 oz.) kidney beans, drained and rinsed",
+                    "1 can (15 oz.) corn, drained",
+                    "1 can (10 oz.) diced tomatoes and green chilies, undrained",
+                    "1/2 cup Italian salad dressing",
+                    "1/2 cup taco sauce",
+                    "1/2 cup crushed tortilla chips",
+                    "1 cup shredded Cheddar cheese",
+                    "1 head lettuce, chopped"
+                ],
+                "cooking_instructions": [
+                    "In a large skillet, cook the beef and onion over medium heat until the beef is browned and the onion is tender.",
+                    "Drain the excess grease.",
+                    "Add the kidney beans, corn, tomatoes and green chilies, salad dressing, and taco sauce.",
+                    "Cook for 5-10 minutes, or until heated through.",
+                    "Arrange the lettuce on a large serving platter.",
+                    "Spoon the beef mixture over the lettuce.",
+                    "Sprinkle with crushed tortilla chips and shredded cheese.",
+                    "Serve immediately."
+                ],
+                "rating": 4.3
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Maria Rodriguez",
+        "picture_url": "https://img.freepik.com/free-photo/melted-chocolate-confectioner-with-whisk_1157-47278.jpg?w=1380&t=st=1682983851~exp=1682984451~hmac=fc52a0e9e526465a3673552d87789fae1b9207d1bbddfe3e505ccc732a4ebc22",
+        "experience": 12,
+        "num_recipes": 35,
+        "like_number": 12000,
+        "desc" : "Rodriguez ultimately decided to enroll in the food engineering program and went on to earn a master’s degree in food engineering from Valencia Polytechnic University in Spain. Today, she serves as the chief food innovation and quality officer at Yum! Brands/Pizza Hut International.",
+        "recipes": [
+            {
+                "recipe_id": "g",
+                "recipe_image":"https://img.freepik.com/free-photo/mexican-tacos-with-beef-tomato-sauce-salsa_2829-14227.jpg?w=996&t=st=1683076525~exp=1683077125~hmac=622fee0caf2a8cf4e1d10bd8e5e48186bb0d42add5243fb93e41e8d3754580a5",
+                "recipe_name": "Taco Salad",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 package taco seasoning mix",
+                    "1 head lettuce, shredded",
+                    "1/2 cup chopped onion",
+                    "1/2 cup chopped green bell pepper",
+                    "1/2 cup chopped tomato",
+                    "1/2 cup shredded Cheddar cheese",
+                    "1 can (2.25 oz.) sliced black olives, drained",
+                    "1 bag (11 oz.) corn chips",
+                    "1 bottle (8 oz.) Catalina salad dressing"
+                ],
+                "cooking_instructions": [
+                    "In a large skillet, cook the ground beef over medium heat until browned and no longer pink.",
+                    "Drain any excess grease.",
+                    "Add the taco seasoning mix and stir to coat the meat.",
+                    "In a large bowl, combine the lettuce, onion, green bell pepper, tomato, Cheddar cheese, and black olives.",
+                    "Add the cooked ground beef and toss to combine.",
+                    "Add the corn chips and salad dressing.",
+                    "Toss again to coat everything in the dressing.",
+                    "Serve immediately."
+                ],
+                "rating": 4.2
+            },
+            {
+                "recipe_id": "h",
+                "recipe_image":"https://img.freepik.com/free-photo/delicious-gourmet-food-tasty-chocolate-with-pepper_185193-108747.jpg?w=996&t=st=1683076011~exp=1683076611~hmac=85a6f81bf03585d1f6f1d37617b30f355a44191027607ab237d3b0f2ff31b147",
+                "recipe_name": "Chili",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 onion, chopped",
+                    "1 green bell pepper, chopped",
+                    "1 can (14.5 oz.) diced tomatoes, undrained",
+                    "1 can (15 oz.) kidney beans, drained and rinsed",
+                    "1 can (15 oz.) pinto beans, drained and rinsed",
+                    "1 can (8 oz.) tomato sauce",
+                    "1 cup water",
+                    "1 package (1.25 oz.) chili seasoning mix"
+                ],
+                "cooking_instructions": [
+                    "In a large pot or Dutch oven, cook the ground beef, onion, and green bell pepper over medium-high heat until the beef is browned and the vegetables are tender.",
+                    "Drain any excess grease.",
+                    "Add the diced tomatoes, kidney beans, pinto beans, tomato sauce, water, and chili seasoning mix.",
+                    "Bring to a boil.",
+                    "Reduce heat and simmer, uncovered, for 30-40 minutes, stirring occasionally.",
+                    "Serve hot with your favorite chili toppings, such as shredded cheese, sour cream, or chopped onions."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "i",
+                "recipe_image":"https://img.freepik.com/free-photo/gourmet-salad-meal-fresh-with-cilantro-generated-by-ai_188544-30765.jpg?w=1060&t=st=1683076429~exp=1683077029~hmac=b19823761cf2dfd9ece34bf6c5d0110bbecda7730ae205ec92af40a597706abe",
+                "recipe_name": "Guacamole",
+                "ingredients": [
+                    "2 ripe avocados, peeled and mashed",
+                    "1/2 onion, chopped",
+                    "1/2 tomato, chopped",
+                    "1 jalapeno pepper, seeded and chopped",
+                    "1/4 cup chopped fresh cilantro",
+                    "1/2 lime, juiced",
+                    "1/4 teaspoon garlic powder",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_instructions": [
+                    "In a large skillet or wok, heat the oil over medium-high heat.",
+                    "Add the chicken and cook until browned on all sides.",
+                    "Remove the chicken from the pan and set aside.",
+                    "Add the onion, garlic, and ginger to the pan and sauté until the onion is translucent.",
+                    "Add the curry powder and cook for 1-2 minutes, or until fragrant.",
+                    "Add the coconut milk, diced tomatoes, and tomato sauce.",
+                    "Return the chicken to the pan and bring the mixture to a simmer."
+                ],
+                "rating": 4.2
+            }
+        ]
+    },
+
+
+    {
+        "id": "4",
+        "name": "Alice Smith",
+        "picture_url": "https://as2.ftcdn.net/v2/jpg/02/23/00/37/1000_F_223003725_Q86VLGaSYXI3mvXxkbfHnbSV0oAuHv7X.jpg",
+        "experience": 12,
+        "num_of_recipes": 45,
+        "like_number": 210,
+        "desc" : "Alice Smith decided to enroll in the food engineering program and went on to earn a master’s degree in food engineering from Valencia Polytechnic University in Spain. Today, she serves as the chief food innovation and quality officer at Yum! Brands/Pizza Hut International.",
+        "recipes": [
+          {
+            "recipe_id": "j",
+            "recipe_image":"https://img.freepik.com/free-photo/top-view-boiled-river-shrimps-leaf-lettuce-with-lemon_141793-3945.jpg?w=996&t=st=1683076380~exp=1683076980~hmac=4a246a7728ef3919e8ab505021f3b9fc56e30c204a6b2e4bcd0109b84e4fd9ea",
+            "recipe_name": "Lemon Garlic Shrimp",
+            "ingredients": [
+              "1 lb shrimp",
+              "2 cloves garlic",
+              "1 lemon",
+              "2 tbsp butter",
+              "1/4 tsp red pepper flakes"
+            ],
+            "cooking_instructions":  [
+                "Preheat the oven to 350 degrees F.",
+                "In a large bowl, whisk together the flour, sugar, cocoa powder, baking soda, and salt.",
+                "Add the eggs, milk, oil, and vanilla extract, and whisk until smooth.",
+                "Pour the batter into a greased 9x13 inch baking dish.",
+                "Bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean.",
+                "Let cool before serving."
+            ],
+            "rating": 4.8
+          },
+
+          {
+            "recipe_id": "k",
+            "recipe_image":"https://img.freepik.com/free-photo/homemade-kung-pao-chicken-with-peppers-vegetables-chinese-food-stir-fry_2829-7179.jpg?w=996&t=st=1683076332~exp=1683076932~hmac=f8d04226e8e01e3e18741c3143006425415f332a3f993356a6c0207d3555ac60",
+            "recipe_name": "Spicy Chicken Stir-Fry",
+            "ingredients": [
+              "1 lb chicken breast",
+              "1 bell pepper",
+              "1 onion",
+              "2 cloves garlic",
+              "2 tbsp soy sauce",
+              "1 tbsp sriracha",
+              "1 tbsp honey"
+            ],
+            "cooking_instructions": [
+                "Preheat the oven to 375 degrees F.",
+                "In a skillet, cook the ground beef, onion, green pepper, and garlic over medium heat until browned.",
+                "Drain the excess fat, then add the diced tomatoes and tomato paste.",
+                "Simmer for 10 minutes, then season with salt, pepper, and Italian seasoning to taste.",
+                "In a 9x13 inch baking dish, spread a layer of the meat sauce, then a layer of uncooked lasagna noodles.",
+                "Repeat layers, ending with a layer of meat sauce on top.",
+                "Cover with foil and bake for 25 minutes.",
+                "Remove the foil and bake for an additional 25 minutes, or until the noodles are tender and the cheese is melted and bubbly.",
+                "Let cool before serving."
+            ],
+            "rating": 4.5
+          },
+
+           {
+                "recipe_id": "l",
+                "recipe_image":"https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?w=996&t=st=1683076146~exp=1683076746~hmac=10ab8d558d977ec3eb6094508827d53bed8b5ed30d64d0c53cc9a1742949b44c",
+                "recipe_name": "Chicken Curry",
+                "ingredients": [
+                    "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
+                    "2 tablespoons vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon grated fresh ginger",
+                    "2 tablespoons curry powder",
+                    "1 can (14 oz.) coconut milk",
+                    "1 can (14.5 oz.) diced tomatoes",
+                    "1 can (8 oz.) tomato sauce",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_instructions": [
+                    "In a large skillet or wok, heat the oil over medium-high heat.",
+                    "Add the chicken and cook until browned on all sides.",
+                    "Remove the chicken from the pan and set aside.",
+                    "Add the onion, garlic, and ginger to the pan and sauté until the onion is translucent.",
+                    "Add the curry powder and cook for 1-2 minutes, or until fragrant.",
+                    "Add the coconut milk, diced tomatoes, and tomato sauce.",
+                    "Return the chicken to the pan and bring the mixture to a simmer.",
+                    "Cook for 10-15 minutes, or until the chicken is cooked through.",
+                    "Season with salt and pepper to taste.",
+                    "Serve over rice."
+                ],
+                "rating": 4.7
+            }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "John Smith",
+        "picture_url": "https://as1.ftcdn.net/v2/jpg/02/00/00/44/1000_F_200004405_zMLJkfOm21NyeqfGAmrDxb2zTnL4hEzX.jpg",
+        "experience": "5 years",
+        "num_of_recipes": 10,
+        "like_number": 25,
+        "desc" : "John Smith is a chef, presenter and best selling author who specialises in Middle Eastern and North African cuisine. He has written six cookbooks",
+        "recipes": [
+            {
+                "recipe_id": "m",
+                "recipe_image":"https://img.freepik.com/free-photo/sweet-chocolate-cake-with-cherry_144627-6623.jpg?w=996&t=st=1683075799~exp=1683076399~hmac=02f8d8ce4f60f389e7049ab0a4265eafb9e64d16d7b85aa6b554b57c0a64e469",
+                "recipe_name": "Chocolate Cake",
+                "ingredients": [
+                    "2 cups flour",
+                    "2 cups sugar",
+                    "3/4 cup cocoa powder",
+                    "2 teaspoons baking soda",
+                    "1 teaspoon salt"
+                ],
+                "cooking_instructions": [
+                    "Preheat the oven to 350 degrees F.",
+                    "In a large bowl, whisk together the flour, sugar, cocoa powder, baking soda, and salt.",
+                    "Add the eggs, milk, oil, and vanilla extract, and whisk until smooth.",
+                    "Pour the batter into a greased 9x13 inch baking dish.",
+                    "Bake for 30-35 minutes, or until a toothpick inserted into the center comes out clean.",
+                    "Let cool before serving."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "n",
+                "recipe_image":"https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-11250.jpg?w=826&t=st=1683076196~exp=1683076796~hmac=820d47c3ab48fdaad84f08fd69d9ce1d5ed875d8f7362a4d3aa8d58013c9f1a7",
+                "recipe_name": "Lasagna",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1/2 cup chopped onion",
+                    "1/2 cup chopped green bell pepper",
+                    "2 cloves garlic, minced",
+                    "1 can (28 oz.) diced tomatoes"
+                ],
+                "cooking_instructions": [
+                    "Preheat the oven to 375 degrees F.",
+                    "In a skillet, cook the ground beef, onion, green pepper, and garlic over medium heat until browned.",
+                    "Drain the excess fat, then add the diced tomatoes and tomato paste.",
+                    "Simmer for 10 minutes, then season with salt, pepper, and Italian seasoning to taste.",
+                    "In a 9x13 inch baking dish, spread a layer of the meat sauce, then a layer of uncooked lasagna noodles.",
+                    "Repeat layers, ending with a layer of meat sauce on top.",
+                    "Cover with foil and bake for 25 minutes.",
+                    "Remove the foil and bake for an additional 25 minutes, or until the noodles are tender and the cheese is melted and bubbly.",
+                    "Let cool before serving."
+                ],
+                "rating": 4.2
+            },
+            {
+                "recipe_id": "o",
+                "recipe_name": "Chicken Curry",
+                "recipe_image":"https://img.freepik.com/free-photo/massaman-curry-frying-pan-with-spices-cement-floor_1150-20777.jpg?w=996&t=st=1683076146~exp=1683076746~hmac=10ab8d558d977ec3eb6094508827d53bed8b5ed30d64d0c53cc9a1742949b44c",
+                "ingredients": [
+                    "1 pound boneless, skinless chicken breasts, cut into bite-sized pieces",
+                    "2 tablespoons vegetable oil",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon grated fresh ginger",
+                    "2 tablespoons curry powder",
+                    "1 can (14 oz.) coconut milk",
+                    "1 can (14.5 oz.) diced tomatoes",
+                    "1 can (8 oz.) tomato sauce",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_instructions": [
+                    "In a large skillet or wok, heat the oil over medium-high heat.",
+                    "Add the chicken and cook until browned on all sides.",
+                    "Remove the chicken from the pan and set aside.",
+                    "Add the onion, garlic, and ginger to the pan and sauté until the onion is translucent.",
+                    "Add the curry powder and cook for 1-2 minutes, or until fragrant.",
+                    "Add the coconut milk, diced tomatoes, and tomato sauce.",
+                    "Return the chicken to the pan and bring the mixture to a simmer.",
+                    "Cook for 10-15 minutes, or until the chicken is cooked through.",
+                    "Season with salt and pepper to taste.",
+                    "Serve over rice."
+                ],
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Maria Rodriguez",
+        "picture_url": "https://img.freepik.com/free-photo/attractive-female-chef-preparing-vegetable-juice-blender_613910-733.jpg?w=996&t=st=1683070549~exp=1683071149~hmac=f6504d791cd8d43a9eb113eb2a02404c33cb94b6bcf269be26fd841d2a3e8168",
+        "experience": 12,
+        "num_recipes": 35,
+        "like_number": 12000,
+        "desc" : "Rodriguez ultimately decided to enroll in the food engineering program and went on to earn a master’s degree in food engineering from Valencia Polytechnic University in Spain. Today, she serves as the chief food innovation and quality officer at Yum! Brands/Pizza Hut International.",
+        "recipes": [
+            {
+                "recipe_id": "p",
+                "recipe_image":"https://img.freepik.com/free-photo/tomato-salad-with-lettuce-cheese-mustard-garlic-dressing_2829-11125.jpg?w=996&t=st=1683076064~exp=1683076664~hmac=61e6475218b3c67cbd0ba2a2178b5e223894233093fcf7635af622eb14964dd4",
+                "recipe_name": "Taco Salad",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 package taco seasoning mix",
+                    "1 head lettuce, shredded",
+                    "1/2 cup chopped onion",
+                    "1/2 cup chopped green bell pepper",
+                    "1/2 cup chopped tomato",
+                    "1/2 cup shredded Cheddar cheese",
+                    "1 can (2.25 oz.) sliced black olives, drained",
+                    "1 bag (11 oz.) corn chips",
+                    "1 bottle (8 oz.) Catalina salad dressing"
+                ],
+                "cooking_instructions": [
+                    "In a large skillet, cook the ground beef over medium heat until browned and no longer pink.",
+                    "Drain any excess grease.",
+                    "Add the taco seasoning mix and stir to coat the meat.",
+                    "In a large bowl, combine the lettuce, onion, green bell pepper, tomato, Cheddar cheese, and black olives.",
+                    "Add the cooked ground beef and toss to combine.",
+                    "Add the corn chips and salad dressing.",
+                    "Toss again to coat everything in the dressing.",
+                    "Serve immediately."
+                ],
+                "rating": 4.2
+            },
+            {
+                "recipe_id": "q",
+                "recipe_image":"https://img.freepik.com/free-photo/delicious-gourmet-food-tasty-chocolate-with-pepper_185193-108747.jpg?w=996&t=st=1683076011~exp=1683076611~hmac=85a6f81bf03585d1f6f1d37617b30f355a44191027607ab237d3b0f2ff31b147",
+                "recipe_name": "Chili",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 onion, chopped",
+                    "1 green bell pepper, chopped",
+                    "1 can (14.5 oz.) diced tomatoes, undrained",
+                    "1 can (15 oz.) kidney beans, drained and rinsed",
+                    "1 can (15 oz.) pinto beans, drained and rinsed",
+                    "1 can (8 oz.) tomato sauce",
+                    "1 cup water",
+                    "1 package (1.25 oz.) chili seasoning mix"
+                ],
+                "cooking_instructions": [
+                    "In a large pot or Dutch oven, cook the ground beef, onion, and green bell pepper over medium-high heat until the beef is browned and the vegetables are tender.",
+                    "Drain any excess grease.",
+                    "Add the diced tomatoes, kidney beans, pinto beans, tomato sauce, water, and chili seasoning mix.",
+                    "Bring to a boil.",
+                    "Reduce heat and simmer, uncovered, for 30-40 minutes, stirring occasionally.",
+                    "Serve hot with your favorite chili toppings, such as shredded cheese, sour cream, or chopped onions."
+                ],
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "r",
+                "recipe_image":"https://img.freepik.com/free-photo/mexican-guacamole-with-nacho-chip-isolated-white-background-copy-space_123827-22610.jpg?w=996&t=st=1683075976~exp=1683076576~hmac=eabbb8ab867d6c9c1cfc527ea5ae6cc6751979314e3694a8efb6e12b82454868",
+                "recipe_name": "Guacamole",
+                "ingredients": [
+                    "2 ripe avocados, peeled and mashed",
+                    "1/2 onion, chopped",
+                    "1/2 tomato, chopped",
+                    "1 jalapeno pepper, seeded and chopped",
+                    "1/4 cup chopped fresh cilantro",
+                    "1/2 lime, juiced",
+                    "1/4 teaspoon garlic powder",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_instructions": [
+                    "In a large skillet or wok, heat the oil over medium-high heat.",
+                    "Add the chicken and cook until browned on all sides.",
+                    "Remove the chicken from the pan and set aside.",
+                    "Add the onion, garlic, and ginger to the pan and sauté until the onion is translucent.",
+                    "Add the curry powder and cook for 1-2 minutes, or until fragrant.",
+                    "Add the coconut milk, diced tomatoes, and tomato sauce.",
+                    "Return the chicken to the pan and bring the mixture to a simmer."
+                ],
+                "rating": 4.2
+            }
+        ]
+    }
+]
